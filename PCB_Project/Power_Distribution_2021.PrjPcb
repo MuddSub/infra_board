@@ -71,7 +71,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SDOWHVBJ
+DocumentUniqueId=MDLIBOGG
 
 [Document3]
 DocumentPath=..\Libraries\Main.SCHLIB
@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HJYBHPCN
+DocumentUniqueId=UZIWIZPH
 
 [Document4]
 DocumentPath=..\Libraries\Power.PcbLib
@@ -156,7 +156,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LNUHFSGU
+DocumentUniqueId=TWELXDPY
 
 [Document8]
 DocumentPath=Power_Distribution.PcbLib
