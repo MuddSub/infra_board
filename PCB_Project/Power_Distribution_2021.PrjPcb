@@ -40,6 +40,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Power_Distribution_2021_12V.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VZXAYLCI
+
+[Document2]
 DocumentPath=Power_Distribution_2021_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMVKKHPC
 
-[Document2]
+[Document3]
 DocumentPath=..\Libraries\Power.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDLIBOGG
 
-[Document3]
+[Document4]
 DocumentPath=..\Libraries\Main.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UZIWIZPH
 
-[Document4]
+[Document5]
 DocumentPath=..\Libraries\Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPAMLKXJ
 
-[Document5]
+[Document6]
 DocumentPath=..\Libraries\Main.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWSUHAHS
 
-[Document6]
+[Document7]
 DocumentPath=Power_Distribution_2021_9V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDMKUVNE
 
-[Document7]
+[Document8]
 DocumentPath=Power_Distribution.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWELXDPY
 
-[Document8]
+[Document9]
 DocumentPath=Power_Distribution.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +311,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP055F9E (HP ENVY 5540 series)
+TargetPrinter=\\print.hmc.edu\StudentPrinting
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
